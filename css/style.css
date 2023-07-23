@@ -83,4 +83,7 @@ body {
 .form-fields  .btn  button:hover{
   background-color: var(--info-color);
   color: var(--light-color);
+  -moz-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
 }
